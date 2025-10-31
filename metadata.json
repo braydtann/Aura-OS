@@ -1,0 +1,5 @@
+{
+  "name": "Aura OS",
+  "description": "A web-based operating system shell with a user experience inspired by the Sony PlayStation 4/5 console UI. Features a hidden taskbar drawer, customizable app shelves, and a theming system for backgrounds, cursors, and sounds.",
+  "requestFramePermissions": []
+}
